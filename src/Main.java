@@ -82,5 +82,7 @@ public class Main {
         totalWorkHours = totalEmployees * 8;
         System.out.println("Если в компании работает " + totalEmployees + " человек, то всего " + totalWorkHours + " часа работы может быть поделено между сотрудниками");
 
+        //randomText
+
     }
 }
